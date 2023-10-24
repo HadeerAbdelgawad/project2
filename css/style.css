@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     height: 3150px;
@@ -720,12 +721,12 @@ table .link-table td a:hover{
     visibility: hidden;
     margin-top: -245px;
     margin-left: 75px;
-    font-size: 30px;
+    font-size: 28px;
     word-spacing: 2px;
 }
 .featured-back-info a i{
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     text-align: center;
     background-color: rgba(84, 95, 79,0.8);
     padding: 5px;
